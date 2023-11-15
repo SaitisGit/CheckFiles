@@ -32,7 +32,7 @@ Run the script using the following command:
 
 bash
 
-python file_search_and_email.py
+python server.py
 The script will perform the following steps:
 
 1. Search for Files
